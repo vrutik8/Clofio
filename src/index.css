@@ -1,0 +1,96 @@
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+}
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left-container{
+  background-color: rgb(218, 218, 255);
+}
+
+.cube-container{
+  padding: 1rem;
+}
+
+.mail-container{
+
+  padding-top: 27rem;
+  margin-left: 1px; 
+}
+
+/* body */
+
+.body-container{
+  width: 94%;
+}
+
+.content-container{
+  margin: 5px 6px;
+}
+.content-heading{
+display: flex;
+justify-content: space-between;
+}
+
+.content-heading h6{
+  color: gray;
+}
+
+.card-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  margin-left: 4rem;
+  border-radius: 20px;
+  width: 12rem;
+}
+
+td{
+  padding: 22px;
+}
+
+table th{
+  margin-top: 22px;
+  font-size: bold;
+  padding: 22px;
+  border:none
+}
+
+.budget{
+  border-right: none;
+}
+
+.content-detail{
+  display: flex;
+  justify-content: space-between;
+  color: rgb(45, 45, 45);
+}
+
+.content-detail-name{
+  display: flex;
+  justify-content: space-between;
+  color: gray;
+}
+
+.table-contain{
+border: 2px solid gray;
+margin: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
